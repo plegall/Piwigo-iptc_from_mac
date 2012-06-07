@@ -1,0 +1,1 @@
+Konvertiert IPTC Daten in MacRoman Encoding in UTF8 Daten
