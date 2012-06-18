@@ -1,1 +1,1 @@
-Convertir IPTC por escrito a la codificación UTF-8 en MacRoman
+Convertir IPTC escrito con codificación MacRoman en UTF-8
