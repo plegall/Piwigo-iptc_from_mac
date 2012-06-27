@@ -1,0 +1,1 @@
+Konvertēt IPTC, uzrakstītu MacRoman kodējumā, UTF8 kodā
