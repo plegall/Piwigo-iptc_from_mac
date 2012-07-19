@@ -1,0 +1,1 @@
+Konvertovať IPTC zápisy v MacRoman enkódovaní na UTF8
