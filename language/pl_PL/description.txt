@@ -1,0 +1,1 @@
+Konwertuje ITPC napisane w kodowaniu MacRoman na UTF8
