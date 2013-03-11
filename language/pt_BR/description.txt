@@ -1,0 +1,1 @@
+Converter IPTC escrita na codificação MacRoman em UTF8
