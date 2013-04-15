@@ -1,0 +1,1 @@
+MacRoman kódolásban írt IPTC átkonvertálása UTF8-ba.
