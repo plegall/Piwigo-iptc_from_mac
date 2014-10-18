@@ -1,0 +1,1 @@
+Konverter IPTC skrevet i MacRoman koding til UTF8
