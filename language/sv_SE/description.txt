@@ -1,0 +1,1 @@
+Konvertera IPTC skrivet med MacRoman-kodning till UTF8.
